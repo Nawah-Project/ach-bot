@@ -1,0 +1,6 @@
+# secrets
+.env
+*.env
+test.py
+user_bot.db
+testx.ipynb
