@@ -12,7 +12,7 @@ user_bot.db
 testx.ipynb
 
 # not necessary file
-session_name.session 
+session_name.session
 
 credentials.json
 token.json
