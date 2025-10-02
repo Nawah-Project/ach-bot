@@ -1,7 +1,17 @@
 # secrets
 .env
 *.env
-test.py
+
+# not necessary file
+test.py 
+
 user_bot.db
+
+# not necessary file
 testx.ipynb
-session_name.session
+
+# not necessary file
+session_name.session 
+
+credentials.json
+token.json
